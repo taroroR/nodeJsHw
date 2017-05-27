@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "test version",
+  "main": "server.js",
+  "scripts": {
+    "test": "'echo \"hello world\";'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "csx2003_hw2"
+  },
+  "keywords": [
+    "csx"
+  ],
+  "author": "Yu tung",
+  "license": "ISC"
+}
